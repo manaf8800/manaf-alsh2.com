@@ -1,0 +1,83 @@
+:root {
+    --main-color: #132eaa;
+    --infinte-color: #132eaa;
+    --shipping-bar-main-color: #000e8a;
+    --main-text-color: #000e8a;
+    --main-text-color2: #000050;
+    --main-text-color-dark: #00005d;
+    /* New Coloring Pattern: */
+    --color-main: #132eaa;
+    --color-main-d: #001490;
+    --color-main-l: #3954d0;
+    --color-main-reverse: #00002a;
+    --color-text: #5a5a5a;
+    --color-text-reverse: #00006a;
+    --color-title: #00005d;
+}
+.store-header, .header-bar, .store-header-min { background: #132eaa; }
+.store-header h1 a, .store-header-min h1 { color: #fff; }
+/* .dropdown-store-header.open .dropdown-toggle, .dropdown-store-header.open .dropdown-toggle { background: #132eaa; color: #fff; } */
+/* .store-contact a { color: #000e8a; } */
+/*a.media-heading, a.product-link { color: #000e8a; }*/
+.pace-demo { background: #000e8a !important;/*darker*/ }
+.pace .pace-progress { background: #000050 !important;/*darker*/ }
+.add-cart { color: #000e8a;/*darker*/ border: 1px solid #000e8a;/*darker*/ }
+.add-cart:hover, .add-cart:focus, .add-cart-large:hover, .add-cart-large:focus, .order-btn:hover, .order-btn:focus { background: #000e8a;/*darker*/ border-color: #000e8a; }
+.cart-nav-submit, .cart-nav-more, .cart-nav-solid { background: #000e8a;/*darker*/ border-color: #000e8a;/*darker*/ }
+.add-cart-large, .order-btn { background: #000e8a; border-color: #000e8a; }
+.cart-nav-light:hover, .cart-nav-light:active, .cart-nav-light:focus { color: #132eaa; }
+.cart-nav-light { border-color: #000e8a;/*darker*/ color: #000e8a;/*darker*/ }
+.cart-line { border-color: #132eaa;/*lighter*/ }
+.cart-number { color: #132eaa;/*lighter*/ border-color: #132eaa;/*lighter*/ }
+.active-step .cart-number { background: #132eaa; border-color: #132eaa; }
+.cart-title { color: #132eaa !important;/*lighter*/ }
+#salla_bar { border-top-color: #132eaa; }
+#salla_bar .checkout-button { background: #000e8a; }
+.choice.border-info-600.text-info-800 { color: #000e8a !important; border-color: #000e8a !important; }
+.payment-method.active { background: #000e8a !important; }
+.pagination>.active>span{background-color: #000e8a !important; border-color: #000e8a !important;}
+/*.order-num { color: #000e8a; }*/
+
+            .product-side-container .product-order-container .panel-heading { background: #132eaa !important; border-bottom-color: #132eaa !important; color:  #fff  !important; }
+.testimonial-header, .owl-theme .owl-nav [class*=owl-] { background:  #132eaa  !important; }
+
+
+a:hover, a:focus, a.login-link:hover { color: #000050; }
+.sub-nav__menu:hover svg { fill: #000e8a; }
+
+.site-header__cart .badge {background: #132eaa; border: 1px solid #132eaa; }
+.circle-action:hover {color: #fff }
+
+.circle-action.next:hover, .circle-action.prev:hover {background: #132eaa;color:#FFFFFF}
+.sub-nav .main-menu > li:hover > a {color: #000050; }
+.slick-active button {background-color: #000e8a !important; }
+.product:hover .product-title {color:#000e8a; }
+.product-price, .product-details__price, .product-price:hover {color: #000e8a;}
+/* .product-add:hover {background: #000e8a; } */
+.footer-title {color: #000e8a;}
+.social__item a:hover {color: #000e8a;}
+
+#searchbox.prompt { border: 1px solid #ddd;}
+
+
+.login-container .border-yellow-dark { border-color: #000e8a; }
+.login-container .text-yellow-dark { color: #000e8a; }
+.login-option, .btn-resend-option { color: #000e8a; border-color: #000e8a; }
+.login-option:hover, .btn-resend-option:hover { color: #fff; border-color: #000e8a; background: #000e8a; }
+/* .sub-nav__close:hover svg { fill: #000e8a; } */
+
+.sub-nav-header { background: #132eaa; }
+.sub-nav-header a { color: #132eaa; }
+.btn-primary { background: #000e8a; border-color: #000e8a; }
+.btn-primary:focus, .btn-primary.focus, .btn-primary:hover, .btn-primary.active, .btn-primary:active { background: #000050 !important; border-color: #000050 !important; }
+.page-box .panel-heading .product-title { color: #000e8a !important; }
+#ask_register_link { color: #000e8a !important; }
+.product-details__hot strong { color: #000e8a !important; }
+.checker span { border-color: #000e8a !important; }
+.sub-nav li > ul a:hover { color: #000050; }
+.btn-order-details { background: #000e8a !important; }
+@media (min-width: 992px) {
+    .sub-nav li > ul a:hover { background: #000e8a; color: #fff; }
+}
+.section-header .section--title { color: #000e8a; }
+.landing-page-feature-item__icon { background: #000e8a; }
